@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+Albert Dewanata Mahrahillah / 192410101056
